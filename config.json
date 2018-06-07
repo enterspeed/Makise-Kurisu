@@ -8,10 +8,10 @@
 	"password": "",
 	
 	"__token_comment": "Provide token if you want to run bot on bot account.",
-	"token": "",
+	"token": "NDU0NDAxMjc5NDMxNjcxODA4.Dfs9zg.I_XgY4YkqEObzHQINzf0S1twYEo",
 	
 	"__owner_comment": "Provide your Owner ID, so you will have access to 'service' commands.",
-	"owner": "",
+	"owner": "199853306334543872",
 	
 	"__wolfram_comment": "Optional: Provide Wolframalpha API key if you want to use it.",
 	"wolfram": "",
@@ -19,25 +19,25 @@
 	"__extensions_comment": "That's it. Extensions don't require any changes.",
 	"extensions": [
 		{
-			"kurisu": "addons.events"
+			"name": "addons.events"
 		},
 		{
-			"kurisu": "addons.service"
+			"name": "addons.service"
 		},
 		{
-			"kurisu": "addons.general"
+			"name": "addons.general"
 		},
 		{
-			"kurisu": "addons.memes"
+			"name": "addons.memes"
 		},
 		{
-			"kurisu": "addons.voice"
+			"name": "addons.voice"
 		},
 		{
-			"kurisu": "addons.mod"
+			"name": "addons.mod"
 		},
 		{
-			"kurisu": "addons.utils"
+			"name": "addons.utils"
 		}
 	]
 }

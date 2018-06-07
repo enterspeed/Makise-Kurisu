@@ -19,25 +19,25 @@
 	"__extensions_comment": "That's it. Extensions don't require any changes.",
 	"extensions": [
 		{
-			"name": "addons.events"
+			"kurisu": "addons.events"
 		},
 		{
-			"name": "addons.service"
+			"kurisu": "addons.service"
 		},
 		{
-			"name": "addons.general"
+			"kurisu": "addons.general"
 		},
 		{
-			"name": "addons.memes"
+			"kurisu": "addons.memes"
 		},
 		{
-			"name": "addons.voice"
+			"kurisu": "addons.voice"
 		},
 		{
-			"name": "addons.mod"
+			"kurisu": "addons.mod"
 		},
 		{
-			"name": "addons.utils"
+			"kurisu": "addons.utils"
 		}
 	]
 }

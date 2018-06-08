@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # pip install requirements.txt 
-Collecting requirements.txt
 # Inspired by 916253 and ihaveamac/ihaveahax
 # Codebase: https://github.com/916253/Kurisu
 # Made just for fun, feel free to use

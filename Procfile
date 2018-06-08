@@ -1,1 +1,1 @@
-web: gunicorn kurisu23423434asdas.wsgi
+web: gunicorn makisekurisu.wsgi

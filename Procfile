@@ -1,1 +1,1 @@
-web: gunicorn run.wsgi
+worker: python run

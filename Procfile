@@ -1,1 +1,1 @@
-web: gunicorn makisekurisu.wsgi
+web: gunicorn run.wsgi

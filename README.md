@@ -1,5 +1,5 @@
 # Kurisu discord bot
-A discord chat bot which combines different simple features for entertainment purposes.
+A discord chat bot which combines different simple features for entertainmen purposes.
 
 # Requirements
 <ul>

@@ -10,7 +10,7 @@ import json
 import sqlite3
 import discord
 from datetime import datetime
-from discord.ext import commands
+from discord.ext.commands import Bot
 
 description = """
 ハロー, my name is Kurisu Makise.
